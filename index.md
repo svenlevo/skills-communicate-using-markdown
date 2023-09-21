@@ -14,3 +14,9 @@ while index != -1:
     print(string[index])
     index -= 1
 ```
+
+- [x] wake up
+- [ ] breakfast
+- [ ] wash my face
+- [ ] lunch
+- [x] listen to daihungmao
